@@ -59,36 +59,11 @@ while(success != true){
 
 ---
 
-# 🧩 Coding Profiles
-
-<p align="center">
-<a href="https://codolio.com/profile/priyanshuguptacoder">
-<img src="https://img.shields.io/badge/Codolio-Profile-blue?style=for-the-badge&logo=codeforces&logoColor=white" />
-</a>
-<a href="https://www.codechef.com/users/priyanshu_9918">
-<img src="https://img.shields.io/badge/CodeChef-1329-brown?style=for-the-badge&logo=codechef&logoColor=white" />
-</a>
-</p>
-
----
-
 # 📊 GitHub Analytics
 
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=priyanshuguptacoder&show_icons=true&theme=tokyonight&hide_border=true" />
-<img width="49%" src="https://github-readme-streak-stats-eight.vercel.app/?user=priyanshuguptacoder&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshuguptacoder&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshuguptacoder&theme=tokyo-night&hide_border=true" width="100%" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=priyanshuguptacoder&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshuguptacoder&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -104,7 +79,7 @@ while(success != true){
 # 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/priyanshuguptacoder/priyanshuguptacoder/output/github-contribution-grid-snake.svg" alt="snake animation" />
+<img src="https://raw.githubusercontent.com/priyanshuguptacoder/priyanshuguptacoder/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
 ---
