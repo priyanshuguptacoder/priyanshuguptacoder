@@ -26,9 +26,9 @@
 - 🎓 CSE Student at **NIT Jalandhar**
 - 💻 Solved **400+ DSA Problems**
 - 🔥 Maintaining Coding Streak
-- 🧠 LeetCode Rating: **1518**
-- 💠 Codeforces Rating: **1469**
-- 🏆 CodeChef Rating: **1329**
+- 🧠 LeetCode Rating: **1520+**
+- 💠 Codeforces Rating: **900+**
+- 🏆 CodeChef Rating: **1320+**
 - 🌐 Learning React, Next.js & Frontend Development
 - 🚀 Building modern responsive web apps
 - 🎯 Goal: Become an elite software engineer
@@ -78,11 +78,11 @@
 ## 🏆 Competitive Programming
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-Rating%201518-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <img src="https://img.shields.io/badge/LeetCode-Rating%201520+-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Codeforces-Pupil%201469-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/Codeforces-Newbie%20900+-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/CodeChef-Rating%201329-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  <img src="https://img.shields.io/badge/CodeChef-Rating%201320+-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
   &nbsp;
   <img src="https://img.shields.io/badge/Problems%20Solved-402+-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white" />
 </p>
