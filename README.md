@@ -59,6 +59,19 @@ while(success != true){
 
 ---
 
+# 🧩 Coding Profiles
+
+<p align="center">
+<a href="https://codolio.com/profile/priyanshuguptacoder">
+<img src="https://img.shields.io/badge/Codolio-Profile-blue?style=for-the-badge&logo=codeforces&logoColor=white" />
+</a>
+<a href="https://www.codechef.com/users/priyanshu_9918">
+<img src="https://img.shields.io/badge/CodeChef-1329-brown?style=for-the-badge&logo=codechef&logoColor=white" />
+</a>
+</p>
+
+---
+
 # 📊 GitHub Analytics
 
 <p align="center">
@@ -116,6 +129,14 @@ while(success != true){
 - 🌐 Frontend Web Development
 - 🎨 Responsive UI/UX Design
 - ⚡ Open Source Contributions
+
+---
+
+# ☕ Developer Fuel
+
+<p align="center">
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
+</p>
 
 ---
 
