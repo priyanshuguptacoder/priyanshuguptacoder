@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0d1117,50:0f2a4a,100:1f6feb&text=Priyanshu%20Gupta&fontSize=58&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Frontend%20Developer%20•%20Competitive%20Programmer%20•%20NIT%20Jalandhar&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0d1117,50:0f2a4a,100:1f6feb&text=Priyanshu%20Gupta&fontSize=58&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Frontend%20Developer%20•%20DSA%20Enthusiast%20•%20NIT%20Jalandhar&descAlignY=58&descSize=18" width="100%" />
 </div>
 
 <br/>
@@ -16,32 +16,29 @@
 
 ## 👨‍💻 About Me
 
-<div align="center">
-<table>
-<tr>
-<td width="60%" align="left">
+<img align="right" width="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ### Priyanshu Gupta
 
-- 🎓 CSE Student at **NIT Jalandhar**
-- 💻 Solved **400+ DSA Problems**
-- 🔥 Maintaining Coding Streak
-- 🧠 LeetCode Rating: **1520+**
-- 💠 Codeforces Rating: **900+**
-- 🏆 CodeChef Rating: **1320+**
-- 🌐 Learning React, Next.js & Frontend Development
-- 🚀 Building modern responsive web apps
-- 🎯 Goal: Become an elite software engineer
+🎓 CSE Student at **NIT Jalandhar**  
+💻 Solved **400+ DSA Problems**  
+🧠 **LeetCode Rating:** 1520+  
+💠 **Codeforces Rating:** 907  
+🏆 **CodeChef Rating:** 1320+  
 
-</td>
+🚀 Interested in:
+- Frontend Development
+- DSA & Competitive Programming
+- Open Source Contributions
 
-<td width="40%" align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
-</td>
+⚡ Currently learning:
+- React.js
+- Next.js
+- Full Stack Development
 
-</tr>
-</table>
-</div>
+🔥 Consistent coding & project building
+
+<br clear="right"/>
 
 ---
 
@@ -64,10 +61,6 @@
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   &nbsp;
-  <a href="#">
-    <img src="https://img.shields.io/badge/Codolio-1f6feb?style=for-the-badge&logo=code&logoColor=white" />
-  </a>
-  &nbsp;
   <a href="https://www.instagram.com/priyanshu_gupta_9918/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
@@ -80,7 +73,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-Rating%201520+-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Codeforces-Newbie%20900+-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/Codeforces-Newbie%20907-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white" />
   &nbsp;
   <img src="https://img.shields.io/badge/CodeChef-Rating%201320+-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
   &nbsp;
