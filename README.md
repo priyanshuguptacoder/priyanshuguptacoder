@@ -6,9 +6,14 @@
 <h3 align="center">CSE @ NIT Jalandhar • DSA Enthusiast • Full Stack Developer 🚀</h3>
 
 <p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Competitive+Programmer;Full+Stack+Developer;Open+Source+Learner;Always+Learning+New+Things" />
+</p>
+
+<p align="center">
 <img src="https://komarev.com/ghpvc/?username=priyanshuguptacoder&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 <img src="https://img.shields.io/github/followers/priyanshuguptacoder?style=for-the-badge" />
 <img src="https://img.shields.io/github/stars/priyanshuguptacoder?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Focus-FullStack-blue?style=for-the-badge" />
 </p>
 
 ---
@@ -20,9 +25,10 @@ class PriyanshuGupta {
 public:
     string college = "NIT Jalandhar";
     string role = "CSE Student";
-    string interests[3] = {"DSA", "Web Development", "Open Source"};
+    string interests[4] = {"DSA", "Web Development", "Open Source", "Problem Solving"};
     int problemsSolved = 402;
     int leetcodeRating = 1518;
+    bool consistency = true;
 };
 ```
 
@@ -30,10 +36,9 @@ public:
 - 🔥 Current Coding Streak: **108 Days**
 - 📈 Max LeetCode Rating: **1518**
 - 🏆 CodeChef Rating: **1329**
-- 🌱 Currently learning **Next.js, TypeScript & System Design**
-- 🎯 Focused on becoming a strong Software Engineer
-
-Humans made competitive programming into intellectual cardio. Somehow it works. ⚙️
+- 🌱 Learning **Next.js, TypeScript, Backend Architecture**
+- ⚡ Love building modern full-stack applications
+- 🎯 Goal: Become a top Software Engineer
 
 ---
 
@@ -64,33 +69,23 @@ Humans made competitive programming into intellectual cardio. Somehow it works. 
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=priyanshuguptacoder&show_icons=true&theme=tokyonight" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshuguptacoder&theme=tokyonight" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=priyanshuguptacoder&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshuguptacoder&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshuguptacoder&layout=compact&theme=tokyonight" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshuguptacoder&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🏆 Achievements
-
-- ✅ Solved **402+ Questions** across coding platforms
-- 🧩 Participated in **14 Contests**
-- 📈 Strong in Arrays, Trees, Graphs, Binary Search & DP
-- 🌍 Global Rank around **14k** on Codolio
-- ⚡ Building projects with modern web technologies
-
----
-
-## 🐍 Contribution Snake
+## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/priyanshuguptacoder/priyanshuguptacoder/output/github-contribution-grid-snake.svg" />
+<img src="https://github-profile-trophy.vercel.app/?username=priyanshuguptacoder&theme=tokyonight&row=1&column=7" />
 </p>
 
 ---
@@ -98,13 +93,46 @@ Humans made competitive programming into intellectual cardio. Somehow it works. 
 ## 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshuguptacoder&theme=tokyo-night" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshuguptacoder&theme=tokyo-night" width="100%" />
 </p>
 
 ---
 
-## 💡 Developer Quote
+## 🐍 Contribution Snake
 
-> "Consistency beats intensity when intensity disappears after three days."
+<p align="center">
+<img src="https://raw.githubusercontent.com/priyanshuguptacoder/readme/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
 
-Internet productivity culture keeps selling motivation like it's a subscription service. Discipline remains undefeated. 🚬
+---
+
+## 🛠️ Currently Working On
+
+- 🚀 Advanced DSA & Competitive Programming
+- 🌐 Full Stack Web Applications
+- ⚡ Open Source Contributions
+- 📚 Backend & System Design Concepts
+
+---
+
+## 📌 Developer Mindset
+
+```txt
+while(alive) {
+   eat();
+   code();
+   debug();
+   sleep();
+   repeat();
+}
+```
+
+Modern programming: spend 6 hours debugging because of one missing semicolon, then call it character development. 💀
+
+---
+
+## 💡 Quote
+
+> “Consistency beats intensity when intensity disappears after three days.”
+
+Discipline remains undefeated. Motivation is basically rented confidence. 🚬
