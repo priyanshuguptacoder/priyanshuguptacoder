@@ -1,98 +1,93 @@
+<div align="center">
+<img src="./assets/banner.svg" width="100%" />
+</div>
+
 <h1 align="center">Hi 👋, I'm Priyanshu Gupta</h1>
-<h3 align="center">CSE Student at NIT Jalandhar | DSA & Web Development Enthusiast 🚀</h3>
-
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-- 🌱 Currently learning **MERN Stack, Next.js, TypeScript & System Design**
-- 💻 Solved **400+ DSA problems** across platforms
-- 🧠 Interested in **Competitive Programming & Open Source**
-- ⚡ LeetCode Rating: **1518**
-- 🏆 Max CodeChef Rating: **1329**
-- 📈 Current LeetCode Streak: **108 Days**
-- 🎯 Goal: Become a strong Software Engineer and Open Source Contributor
-
----
-
-# 🌐 Connect With Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/priyanshu-gupta-b98689376/" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
-</a>
-
-<a href="https://github.com/priyanshuguptacoder" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
-</a>
-
-<a href="https://www.instagram.com/priyanshu_gupta_9918/" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=instagram" height="40" />
-</a>
-
-<a href="https://priyanshuguptaportfolio.online/" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=vercel" height="40" />
-</a>
-
-<a href="https://codolio.com/profile/priyanshuguptacoder" target="blank">
-<img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="40" />
-</a>
-</p>
-
----
-
-# 🚀 Languages and Tools
-
-<p align="left"> 
-<img src="https://skillicons.dev/icons?i=cpp,c,js,ts,react,nextjs,nodejs,express,mongodb,mysql,git,github,html,css,tailwind,vscode,firebase" />
-</p>
-
----
-
-# 📊 Coding Stats
+<h3 align="center">CSE @ NIT Jalandhar • DSA Enthusiast • Full Stack Developer 🚀</h3>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=priyanshuguptacoder&show_icons=true&theme=tokyonight" alt="stats" />
+<img src="https://komarev.com/ghpvc/?username=priyanshuguptacoder&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/priyanshuguptacoder?style=for-the-badge" />
+<img src="https://img.shields.io/github/stars/priyanshuguptacoder?style=for-the-badge" />
+</p>
+
+---
+
+## 🧠 About Me
+
+```cpp
+class PriyanshuGupta {
+public:
+    string college = "NIT Jalandhar";
+    string role = "CSE Student";
+    string interests[3] = {"DSA", "Web Development", "Open Source"};
+    int problemsSolved = 402;
+    int leetcodeRating = 1518;
+};
+```
+
+- 💻 Solved **400+ DSA Problems**
+- 🔥 Current Coding Streak: **108 Days**
+- 📈 Max LeetCode Rating: **1518**
+- 🏆 CodeChef Rating: **1329**
+- 🌱 Currently learning **Next.js, TypeScript & System Design**
+- 🎯 Focused on becoming a strong Software Engineer
+
+Humans made competitive programming into intellectual cardio. Somehow it works. ⚙️
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/priyanshu-gupta-b98689376/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="50" />
+</a>
+<a href="https://github.com/priyanshuguptacoder">
+<img src="https://skillicons.dev/icons?i=github" height="50" />
+</a>
+<a href="https://www.instagram.com/priyanshu_gupta_9918/">
+<img src="https://skillicons.dev/icons?i=instagram" height="50" />
+</a>
+<a href="https://priyanshuguptaportfolio.online/">
+<img src="https://skillicons.dev/icons?i=vercel" height="50" />
+</a>
+</p>
+
+---
+
+## 🚀 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,c,js,ts,react,nextjs,nodejs,express,mongodb,mysql,tailwind,git,github,firebase,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=priyanshuguptacoder&show_icons=true&theme=tokyonight" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshuguptacoder&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshuguptacoder&theme=tokyonight" alt="streak" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshuguptacoder&layout=compact&theme=tokyonight" alt="langs" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshuguptacoder&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-# 🏆 Achievements
+## 🏆 Achievements
 
-- ✅ Solved **402+ DSA Questions**
-- 🔥 **108 Days** Active Coding Streak
-- 📈 Reached **1518 LeetCode Rating**
-- 🧩 Participated in **14 Coding Contests**
-- 🏅 Global Rank around **14k** on Codolio
-
----
-
-# 📌 Featured Profiles
-
-- 🌐 Portfolio:  
-  https://priyanshuguptaportfolio.online/
-
-- 🧠 Codolio:  
-  https://codolio.com/profile/priyanshuguptacoder
-
-- 💼 LinkedIn:  
-  https://www.linkedin.com/in/priyanshu-gupta-b98689376/
-
-- 📷 Instagram:  
-  https://www.instagram.com/priyanshu_gupta_9918/
-
-- 🐙 GitHub:  
-  https://github.com/priyanshuguptacoder
+- ✅ Solved **402+ Questions** across coding platforms
+- 🧩 Participated in **14 Contests**
+- 📈 Strong in Arrays, Trees, Graphs, Binary Search & DP
+- 🌍 Global Rank around **14k** on Codolio
+- ⚡ Building projects with modern web technologies
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/priyanshuguptacoder/priyanshuguptacoder/output/github-contribution-grid-snake.svg" />
@@ -100,14 +95,16 @@
 
 ---
 
-# 🔥 Contribution Graph
+## 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshuguptacoder&theme=tokyo-night" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshuguptacoder&theme=tokyo-night" width="100%"/>
 </p>
 
 ---
 
-# ✨ Quote
+## 💡 Developer Quote
 
-> “Consistency compounds quietly. One solved problem every day still beats fake motivation.”
+> "Consistency beats intensity when intensity disappears after three days."
+
+Internet productivity culture keeps selling motivation like it's a subscription service. Discipline remains undefeated. 🚬
