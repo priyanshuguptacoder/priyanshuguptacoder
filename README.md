@@ -94,8 +94,8 @@ while(success != true){
 
 | Project | Repository | Live Demo |
 |---|---|---|
-| 📊 LeetCode Tracker | <a href="https://github.com/priyanshuguptacoder/LeetCode-Tracker">GitHub</a> | Coming Soon |
-| 🏨 Hostel Management System | <a href="https://github.com/priyanshuguptacoder/hostelmanagement">GitHub</a> | Coming Soon |
+| 📊 LeetCode Tracker | <a href="https://github.com/priyanshuguptacoder/LeetCode-Tracker">GitHub</a> | # |
+| 🏨 Hostel Management System | <a href="https://github.com/priyanshuguptacoder/hostelmanagement">GitHub</a> | <a href="https://hostel-management-system-hqg0.onrender.com/">Visit</a> |
 | 🌐 Portfolio Website | <a href="https://github.com/priyanshuguptacoder/Portfolio">GitHub</a> | <a href="https://priyanshuguptaportfolio.online/">Visit</a> |
 
 </div>
