@@ -1,11 +1,11 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0d1117,100:1f6feb&text=Priyanshu%20Gupta&fontSize=55&fontAlignY=40&animation=fadeIn&fontColor=ffffff&desc=Full%20Stack%20Developer%20•%20DSA%20Enthusiast%20•%20NIT%20Jalandhar&descAlignY=60" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0d1117,100:1f6feb&text=Priyanshu%20Gupta&fontSize=55&fontAlignY=40&animation=fadeIn&fontColor=ffffff&desc=Frontend%20Developer%20•%20DSA%20Enthusiast%20•%20NIT%20Jalandhar&descAlignY=60" width="100%" />
 </div>
 
 <h1 align="center">Hey 👋 I'm Priyanshu</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Competitive+Programmer;Full+Stack+Developer;400%2B+DSA+Problems+Solved;Learning+System+Design+%26+Backend;Building+Cool+Projects+Everyday" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Competitive+Programmer;Frontend+Developer;400%2B+DSA+Problems+Solved;Building+Modern+Web+Applications;Open+Source+Contributor" />
 </p>
 
 <p align="center">
@@ -25,8 +25,8 @@
 - 🔥 Current Coding Streak: **108 Days**
 - 📈 Max LeetCode Rating: **1518**
 - 🏆 CodeChef Rating: **1329**
-- 🌱 Currently learning **Backend & System Design**
-- ⚡ Building modern full-stack web applications
+- 🌱 Currently learning **React, Next.js & Frontend Development**
+- ⚡ Building modern responsive web applications
 - 🎯 Goal: Become an elite software engineer
 
 ```cpp
@@ -38,7 +38,7 @@ while(success != true){
 }
 ```
 
-Humanity really created bugs, then created programmers to remove bugs, then created frameworks that create more bugs. Circular economy. 💀
+Humans really created CSS just to fight alignment issues for three hours. Fascinating species. 💀
 
 ---
 
@@ -56,7 +56,7 @@ Humanity really created bugs, then created programmers to remove bugs, then crea
 # 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,c,js,ts,react,mongodb,tailwind,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=cpp,c,js,ts,react,nextjs,html,css,tailwind,git,github,firebase,vscode" />
 </p>
 
 ---
@@ -111,7 +111,7 @@ Humanity really created bugs, then created programmers to remove bugs, then crea
 | 📊 LeetCode Tracker | Track coding progress with analytics |
 | 🌐 Portfolio Website | Personal responsive portfolio |
 | 💱 Currency Converter | Real-time currency exchange app |
-| 📚 Library Management | Full stack management system |
+| 📚 Library Management | Responsive management system |
 
 </div>
 
@@ -120,8 +120,8 @@ Humanity really created bugs, then created programmers to remove bugs, then crea
 # ⚡ Current Focus
 
 - 🚀 Advanced DSA & Competitive Programming
-- 🌐 Full Stack Web Development
-- 📚 Backend & System Design
+- 🌐 Frontend Web Development
+- 🎨 Responsive UI/UX Design
 - ⚡ Open Source Contributions
 
 ---
