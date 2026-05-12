@@ -98,11 +98,6 @@
   <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark" />
 </p>
 
-<h3 align="center">Backend & Database</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" />
-</p>
-
 <h3 align="center">Tools & Platforms</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,vercel&theme=dark" />
