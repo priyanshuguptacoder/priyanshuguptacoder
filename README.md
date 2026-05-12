@@ -12,6 +12,7 @@
 <img src="https://komarev.com/ghpvc/?username=priyanshuguptacoder&style=for-the-badge&color=1f6feb" />
 <img src="https://img.shields.io/github/followers/priyanshuguptacoder?style=for-the-badge&color=1f6feb" />
 <img src="https://img.shields.io/github/stars/priyanshuguptacoder?style=for-the-badge&color=1f6feb" />
+<img src="https://img.shields.io/badge/Open%20To-Collaboration-1f6feb?style=for-the-badge" />
 </p>
 
 ---
@@ -43,6 +44,7 @@ while(success != true){
 # 🌐 Connect With Me
 
 <p align="center">
+<a href="mailto:priyanshug.cs.25@nitj.ac.in"><img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail" /></a>
 <a href="https://www.linkedin.com/in/priyanshu-gupta-b98689376/"><img src="https://skillicons.dev/icons?i=linkedin" height="50" /></a>
 <a href="https://github.com/priyanshuguptacoder"><img src="https://skillicons.dev/icons?i=github" height="50" /></a>
 <a href="https://www.instagram.com/priyanshu_gupta_9918/"><img src="https://skillicons.dev/icons?i=instagram" height="50" /></a>
