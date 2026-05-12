@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Priyanshu Gupta</h1>
-<h3 align="center">CSE Student @ NIT Jalandhar • Competitive Programmer • Full Stack Developer 🚀</h3>
+<h3 align="center">CSE Student @ NIT Jalandhar • Competitive Programmer • Web Developer 🚀</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=400%2B+DSA+Problems+Solved;LeetCode+Rating+1518;MERN+Stack+Developer;Learning+System+Design;Open+Source+Contributor" />
@@ -40,7 +40,7 @@ public:
 - 🔥 Current Coding Streak: **108 Days**
 - 📈 Max LeetCode Rating: **1518**
 - 🏆 CodeChef Rating: **1329**
-- 🌱 Learning **Next.js, TypeScript, Backend & System Design**
+- 🌱 Learning **Next.js, React, Frontend**
 - ⚡ Building modern full-stack projects
 - 🎯 Goal: Crack top tech opportunities through consistency
 
