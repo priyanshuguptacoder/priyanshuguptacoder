@@ -106,12 +106,10 @@ Humans really created CSS just to fight alignment issues for three hours. Fascin
 
 <div align="center">
 
-| Project | Description |
+| Project | Links |
 |---|---|
-| 📊 LeetCode Tracker | Track coding progress with analytics |
-| 🌐 Portfolio Website | Personal responsive portfolio |
-| 💱 Currency Converter | Real-time currency exchange app |
-| 📚 Library Management | Responsive management system |
+| 📊 LeetCode Tracker | <a href="https://github.com/priyanshuguptacoder/LeetCode-Tracker">Repository</a> |
+| 🏨 Hostel Management System | <a href="https://github.com/priyanshuguptacoder/hostelmanagement">Repository</a> |
 
 </div>
 
