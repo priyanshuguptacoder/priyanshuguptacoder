@@ -63,7 +63,7 @@
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://codolio.com/profile/priyanshuguptacoder">
+  <a href="#">
     <img src="https://img.shields.io/badge/Codolio-1f6feb?style=for-the-badge&logo=code&logoColor=white" />
   </a>
   &nbsp;
