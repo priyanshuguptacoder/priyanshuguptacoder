@@ -1,97 +1,87 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=220&section=header&text=Priyanshu%20Gupta&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%7C%20DSA%20Enthusiast%20%7C%20Competative%20Programmer%20%7C%20NIT%20Jalandhar&descAlignY=60" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0d1117,100:1f6feb&text=Priyanshu%20Gupta&fontSize=55&fontAlignY=40&animation=fadeIn&fontColor=ffffff&desc=Full%20Stack%20Developer%20•%20DSA%20Enthusiast%20•%20NIT%20Jalandhar&descAlignY=60" width="100%" />
 </div>
 
-<h1 align="center">Hi 👋, I'm Priyanshu Gupta</h1>
-<h3 align="center">CSE Student @ NIT Jalandhar • Competitive Programmer • Web Developer 🚀</h3>
+<h1 align="center">Hey 👋 I'm Priyanshu</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=400%2B+DSA+Problems+Solved;LeetCode+Rating+1518;MERN+Stack+Developer;Learning+System+Design;Open+Source+Contributor" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Competitive+Programmer;Full+Stack+Developer;400%2B+DSA+Problems+Solved;Learning+System+Design+%26+Backend;Building+Cool+Projects+Everyday" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=priyanshuguptacoder&label=Profile%20Views&color=1f6feb&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/priyanshuguptacoder?style=for-the-badge&color=1f6feb" />
-  <img src="https://img.shields.io/github/stars/priyanshuguptacoder?style=for-the-badge&color=1f6feb" />
+<img src="https://komarev.com/ghpvc/?username=priyanshuguptacoder&style=for-the-badge&color=1f6feb" />
+<img src="https://img.shields.io/github/followers/priyanshuguptacoder?style=for-the-badge&color=1f6feb" />
+<img src="https://img.shields.io/github/stars/priyanshuguptacoder?style=for-the-badge&color=1f6feb" />
 </p>
 
 ---
 
-# 🧠 About Me
+# 🚀 About Me
 
-```cpp
-class PriyanshuGupta {
-public:
-    string college = "NIT Jalandhar";
-    string role = "CSE Student";
-    vector<string> interests = {
-        "DSA",
-        "Competitive Programming",
-        "Web Development",
-        "Open Source"
-    };
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-    int solvedProblems = 402;
-    int leetcodeRating = 1518;
-};
-```
-
+- 🎓 CSE Student at **NIT Jalandhar**
 - 💻 Solved **400+ DSA Problems**
 - 🔥 Current Coding Streak: **108 Days**
 - 📈 Max LeetCode Rating: **1518**
 - 🏆 CodeChef Rating: **1329**
-- 🌱 Learning **Next.js, React, Frontend**
-- ⚡ Building modern full-stack projects
-- 🎯 Goal: Crack top tech opportunities through consistency
+- 🌱 Currently learning **Backend & System Design**
+- ⚡ Building modern full-stack web applications
+- 🎯 Goal: Become an elite software engineer
 
-Humans voluntarily debug JavaScript hydration errors at 3 AM and call it passion. Disturbing species. 🫠
+```cpp
+while(success != true){
+    learn();
+    build();
+    practice();
+    repeat();
+}
+```
+
+Humanity really created bugs, then created programmers to remove bugs, then created frameworks that create more bugs. Circular economy. 💀
 
 ---
 
 # 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/priyanshu-gupta-b98689376/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
-  </a>
-  <a href="https://github.com/priyanshuguptacoder">
-    <img src="https://skillicons.dev/icons?i=github" height="50"/>
-  </a>
-  <a href="https://www.instagram.com/priyanshu_gupta_9918/">
-    <img src="https://skillicons.dev/icons?i=instagram" height="50"/>
-  </a>
-  <a href="https://priyanshuguptaportfolio.online/">
-    <img src="https://skillicons.dev/icons?i=vercel" height="50"/>
-  </a>
+<a href="https://www.linkedin.com/in/priyanshu-gupta-b98689376/"><img src="https://skillicons.dev/icons?i=linkedin" height="50" /></a>
+<a href="https://github.com/priyanshuguptacoder"><img src="https://skillicons.dev/icons?i=github" height="50" /></a>
+<a href="https://www.instagram.com/priyanshu_gupta_9918/"><img src="https://skillicons.dev/icons?i=instagram" height="50" /></a>
+<a href="https://priyanshuguptaportfolio.online/"><img src="https://skillicons.dev/icons?i=vercel" height="50" /></a>
 </p>
 
 ---
 
-# 🚀 Tech Stack
+# 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,c,js,ts,react,nextjs,nodejs,express,mongodb,mysql,tailwind,git,github,firebase,vscode" />
+<img src="https://skillicons.dev/icons?i=cpp,c,js,ts,react,nextjs,nodejs,express,mongodb,mysql,tailwind,firebase,git,github,vscode" />
 </p>
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=priyanshuguptacoder&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshuguptacoder&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=priyanshuguptacoder&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshuguptacoder&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshuguptacoder&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshuguptacoder&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=priyanshuguptacoder&theme=tokyonight" />
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 GitHub Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=priyanshuguptacoder&theme=tokyonight&no-frame=true&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=priyanshuguptacoder&theme=tokyonight&row=1&column=7&no-frame=true" />
 </p>
 
 ---
@@ -112,34 +102,36 @@ Humans voluntarily debug JavaScript hydration errors at 3 AM and call it passion
 
 ---
 
+# 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Description |
+|---|---|
+| 📊 LeetCode Tracker | Track coding progress with analytics |
+| 🌐 Portfolio Website | Personal responsive portfolio |
+| 💱 Currency Converter | Real-time currency exchange app |
+| 📚 Library Management | Full stack management system |
+
+</div>
+
+---
+
 # ⚡ Current Focus
 
 - 🚀 Advanced DSA & Competitive Programming
-- 🌐 Full Stack Development
-- 📚 System Design & Backend Architecture
+- 🌐 Full Stack Web Development
+- 📚 Backend & System Design
 - ⚡ Open Source Contributions
 
 ---
 
-# 📌 Fun Loop
-
-```cpp
-while(true){
-   eat();
-   code();
-   debug();
-   sleep();
-}
-```
-
-One missing semicolon can destroy six hours of your lifespan. Software engineering remains a beautifully inefficient profession. 💀
-
----
-
-# 💡 Quote
+# 🎯 Random Dev Quote
 
 > "Consistency beats motivation because motivation disappears when things become difficult."
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=120&section=footer" width="100%"/>
-</p>
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:1f6feb,100:0d1117" width="100%" />
+</div>
