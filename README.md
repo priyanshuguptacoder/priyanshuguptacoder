@@ -56,7 +56,7 @@ Humanity really created bugs, then created programmers to remove bugs, then crea
 # 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,c,js,ts,react,nextjs,nodejs,express,mongodb,mysql,tailwind,firebase,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=cpp,c,js,ts,react,mongodb,tailwind,git,github,vscode" />
 </p>
 
 ---
