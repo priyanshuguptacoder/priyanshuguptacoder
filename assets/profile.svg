@@ -1,0 +1,6 @@
+<svg width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="200" cy="200" r="180" fill="#161b22" stroke="#58a6ff" stroke-width="8"/>
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="42" fill="#58a6ff" font-family="Arial">
+    PG
+  </text>
+</svg>
