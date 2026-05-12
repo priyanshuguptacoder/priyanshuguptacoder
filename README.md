@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=220&section=header&text=Priyanshu%20Gupta&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%7C%20DSA%20Enthusiast%20%20Competative%20Programmer%7C%20NIT%20Jalandhar&descAlignY=60" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=220&section=header&text=Priyanshu%20Gupta&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%7C%20DSA%20Enthusiast%20%7C%20Competative%20Programmer%7C%20NIT%20Jalandhar&descAlignY=60" width="100%"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm Priyanshu Gupta</h1>
