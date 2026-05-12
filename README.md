@@ -15,6 +15,12 @@
 <img src="https://img.shields.io/badge/Open%20To-Collaboration-1f6feb?style=for-the-badge" />
 </p>
 
+<p align="center">
+<img src="https://img.shields.io/badge/C%2B%2B-Main%20Language-blue?style=flat-square&logo=c%2B%2B" />
+<img src="https://img.shields.io/badge/Focus-Frontend%20Development-1f6feb?style=flat-square" />
+<img src="https://img.shields.io/badge/Open%20Source-Active-success?style=flat-square" />
+</p>
+
 ---
 
 # 🚀 About Me
