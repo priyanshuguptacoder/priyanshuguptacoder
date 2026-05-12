@@ -62,12 +62,20 @@ while(success != true){
 # 📊 GitHub Analytics
 
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=priyanshuguptacoder&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-<img width="49%" src="https://streak-stats.demolab.com?user=priyanshuguptacoder&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=priyanshuguptacoder&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-streak-stats-eight.vercel.app/?user=priyanshuguptacoder&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshuguptacoder&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshuguptacoder&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshuguptacoder&theme=tokyo-night&hide_border=true" width="100%" />
 </p>
 
 ---
@@ -75,7 +83,7 @@ while(success != true){
 # 🏆 GitHub Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=priyanshuguptacoder&theme=tokyonight&row=1&column=6&no-frame=true&margin-w=15" />
+<img src="https://github-profile-trophy.vercel.app/?username=priyanshuguptacoder&theme=tokyonight&row=1&column=6&no-frame=true" />
 </p>
 
 ---
@@ -83,7 +91,7 @@ while(success != true){
 # 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/priyanshuguptacoder/priyanshuguptacoder/output/github-contribution-grid-snake-dark.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/priyanshuguptacoder/priyanshuguptacoder/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
