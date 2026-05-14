@@ -45,7 +45,7 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="mailto:priyanshug.cs.25@nitj.ac.in">
+  <a href="mailto:priyanshuguptanitian9696@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
@@ -77,7 +77,7 @@
   &nbsp;
   <img src="https://img.shields.io/badge/CodeChef-Rating%201320+-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Problems%20Solved-402+-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Problems%20Solved-400+-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white" />
 </p>
 
 ---
