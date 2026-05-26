@@ -140,6 +140,7 @@ A personal tracker to monitor DSA problem-solving progress.
 
 [![GitHub](https://img.shields.io/badge/Source-1f6feb?style=flat-square&logo=github)](https://github.com/priyanshuguptacoder/LeetCode-Tracker)
 [![Live Demo](https://img.shields.io/badge/Live-Demo-orange?style=flat-square&logo=vercel)](https://competativeprogrammingtrackerpriyanshu.vercel.app/)
+
 `JavaScript` `DSA`
 
 </td>
