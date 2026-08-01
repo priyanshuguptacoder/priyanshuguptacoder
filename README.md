@@ -21,20 +21,15 @@
 ### Priyanshu Gupta
 
 🎓 CSE Student at **NIT Jalandhar**  
-💻 Solved **400+ DSA Problems**  
-🧠 **LeetCode Rating:** 1520+  
-💠 **Codeforces Rating:** 907  
-🏆 **CodeChef Rating:** 1320+  
+💻 Solved **1000+ DSA/CP Problems**  
+🧠 **LeetCode Rating:** 1850+  
+💠 **Codeforces Rating:** 1450+  
+🏆 **CodeChef Rating:** 1630+  
 
 🚀 Interested in:
-- Frontend Development
+- Full-Stack Web Development
 - DSA & Competitive Programming
 - Open Source Contributions
-
-⚡ Currently learning:
-- React.js
-- Next.js
-- Full Stack Development
 
 🔥 Consistent coding & project building
 
@@ -86,17 +81,17 @@
 
 <h3 align="center">Languages</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,js,ts&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,js,python&theme=dark" />
 </p>
 
-<h3 align="center">Frontend</h3>
+<h3 align="center">Full-Stack</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwindcss,mongodb,expressjs,nodejs,&theme=dark" />
 </p>
 
 <h3 align="center">Tools & Platforms</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,vercel&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,vercel,render&theme=dark" />
 </p>
 
 ---
