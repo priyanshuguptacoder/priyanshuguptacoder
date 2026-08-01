@@ -68,7 +68,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-Rating%201850+-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Codeforces-Specialist%20907-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/Codeforces-Specialist%201450+-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white" />
   &nbsp;
   <img src="https://img.shields.io/badge/CodeChef-Rating%201630+-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
   &nbsp;
@@ -81,7 +81,7 @@
 
 <h3 align="center">Languages</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,js,python&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c++,c,js,python&theme=dark" />
 </p>
 
 <h3 align="center">Full-Stack</h3>
