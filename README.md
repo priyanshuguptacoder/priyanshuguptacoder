@@ -66,13 +66,13 @@
 ## 🏆 Competitive Programming
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-Rating%201520+-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <img src="https://img.shields.io/badge/LeetCode-Rating%201850+-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Codeforces-Newbie%20907-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/Codeforces-Specialist%20907-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/CodeChef-Rating%201320+-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  <img src="https://img.shields.io/badge/CodeChef-Rating%201630+-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Problems%20Solved-400+-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Problems%20Solved-1000+-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white" />
 </p>
 
 ---
