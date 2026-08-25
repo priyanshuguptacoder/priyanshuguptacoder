@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20To-Collaboration-1f6feb?style=for-the-badge&logo=handshake&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20To-Internship-1f6feb?style=for-the-badge&logo=handshake&logoColor=white" />
   <img src="https://img.shields.io/github/followers/priyanshuguptacoder?style=for-the-badge&color=1f6feb&label=FOLLOWERS" />
 </p>
 
@@ -141,6 +141,29 @@ Full-stack hostel management system for resident records, hostel operations, and
 - Render deployment
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-orange?style=flat-square&logo=render)](https://hostel-management-system-hqg0.onrender.com/)
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <a href="https://github.com/priyanshuguptacoder">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=priyanshuguptacoder&show_icons=true&hide_border=true&include_all_commits=true&count_private=false&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" />
+  </a>
+  <a href="https://github.com/priyanshuguptacoder">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshuguptacoder&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=priyanshuguptacoder&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshuguptacoder&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=ffffff&area=true&hide_border=true" width="98%" />
+</p>
+
+> **Note:** These cards use public GitHub-data services. Their data can be cached and their public endpoints can occasionally hit GitHub API rate limits; the profile itself remains fully functional even if a card is temporarily unavailable. citeturn677642search0turn677642search8
 
 ---
 
