@@ -40,17 +40,13 @@ Focused on **backend/full-stack engineering, DSA, competitive programming, AI-po
 ## 🏆 Coding Profiles
 
 <p align="center">
-  <a href="https://leetcode.com/u/invisiblemanfromheart/"><img src="https://img.shields.io/badge/🧩%20LeetCode-1940%20%7C%20Knight%20%7C%20Top%206.01%25-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <a href="https://codeforces.com/profile/priyanshuguptacoder"><img src="https://img.shields.io/badge/⚔️%20Codeforces-1460%20%7C%20Specialist-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
-  <a href="https://www.codechef.com/users/priyanshuguptacoder"><img src="https://img.shields.io/badge/🍳%20CodeChef-1645%20%7C%203--Star-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/invisiblemanfromheart/"><img src="https://img.shields.io/badge/🧩-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://codeforces.com/profile/priyanshuguptacoder"><img src="https://img.shields.io/badge/⚔️-Codeforces-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+  <a href="https://www.codechef.com/users/priyanshuguptacoder"><img src="https://img.shields.io/badge/🍳-CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
+  <a href="https://codolio.com/profile/priyanshuguptacoder"><img src="https://img.shields.io/badge/📊-Codolio-6C63FF?style=for-the-badge" /></a>
+  <a href="https://atcoder.jp/users/priyanshuguptacoder"><img src="https://img.shields.io/badge/🅰️-AtCoder-0f4c81?style=for-the-badge&logo=atcoder&logoColor=white" /></a>
+  <a href="https://www.geeksforgeeks.org/user/priyanshuguptacoder/"><img src="https://img.shields.io/badge/🧠-GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
 </p>
-<p align="center">
-  <a href="https://codolio.com/profile/priyanshuguptacoder"><img src="https://img.shields.io/badge/📊%20Codolio-Profile-6C63FF?style=for-the-badge" /></a>
-  <a href="https://atcoder.jp/users/priyanshuguptacoder"><img src="https://img.shields.io/badge/🅰️%20AtCoder-Profile-0f4c81?style=for-the-badge&logo=atcoder&logoColor=white" /></a>
-  <a href="https://www.geeksforgeeks.org/user/priyanshuguptacoder/"><img src="https://img.shields.io/badge/🧠%20GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
-</p>
-
-<p align="center"><sub>Click the platform badges above to open the profile. No raw URLs are displayed.</sub></p>
 
 ---
 
