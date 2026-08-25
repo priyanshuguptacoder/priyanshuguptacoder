@@ -29,10 +29,13 @@ Focused on **backend/full-stack engineering, DSA, competitive programming, AI-po
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="mailto:priyanshug.cs.25@nitj.ac.in"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/priyanshu-gupta-b98689376/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/priyanshuguptacoder"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://priyanshuguptaportfolio.online/"><img src="https://img.shields.io/badge/Portfolio-1f6feb?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="mailto:priyanshug.cs.25@nitj.ac.in"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="42" height="42" alt="Email" title="Email" /></a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/priyanshu-gupta-b98689376/"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="42" height="42" alt="LinkedIn" title="LinkedIn" /></a>
+&nbsp;&nbsp;
+<a href="https://github.com/priyanshuguptacoder"><img src="https://cdn.simpleicons.org/github/FFFFFF" width="42" height="42" alt="GitHub" title="GitHub" /></a>
+&nbsp;&nbsp;
+<a href="https://priyanshuguptaportfolio.online/"><img src="https://cdn.simpleicons.org/vercel/FFFFFF" width="42" height="42" alt="Portfolio" title="Portfolio" /></a>
 </p>
 
 ---
@@ -40,12 +43,19 @@ Focused on **backend/full-stack engineering, DSA, competitive programming, AI-po
 ## 🏆 Coding Profiles
 
 <p align="center">
-  <a href="https://leetcode.com/u/invisiblemanfromheart/"><img src="https://img.shields.io/badge/🧩-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <a href="https://codeforces.com/profile/priyanshuguptacoder"><img src="https://img.shields.io/badge/⚔️-Codeforces-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
-  <a href="https://www.codechef.com/users/priyanshuguptacoder"><img src="https://img.shields.io/badge/🍳-CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
-  <a href="https://codolio.com/profile/priyanshuguptacoder"><img src="https://img.shields.io/badge/📊-Codolio-6C63FF?style=for-the-badge" /></a>
-  <a href="https://atcoder.jp/users/priyanshuguptacoder"><img src="https://img.shields.io/badge/🅰️-AtCoder-0f4c81?style=for-the-badge&logo=atcoder&logoColor=white" /></a>
-  <a href="https://www.geeksforgeeks.org/user/priyanshuguptacoder/"><img src="https://img.shields.io/badge/🧠-GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/invisiblemanfromheart/" title="LeetCode"><img src="https://cdn.simpleicons.org/leetcode/FFA116" width="50" height="50" alt="LeetCode" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://codeforces.com/profile/priyanshuguptacoder" title="Codeforces"><img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="50" height="50" alt="Codeforces" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.codechef.com/users/priyanshuguptacoder" title="CodeChef"><img src="https://cdn.simpleicons.org/codechef/FFFFFF" width="50" height="50" alt="CodeChef" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://codolio.com/profile/priyanshuguptacoder" title="Codolio"><img src="https://www.google.com/s2/favicons?domain=codolio.com&sz=128" width="50" height="50" alt="Codolio" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://atcoder.jp/users/priyanshuguptacoder" title="AtCoder"><img src="https://cdn.simpleicons.org/atcoder/0F4C81" width="50" height="50" alt="AtCoder" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.geeksforgeeks.org/user/priyanshuguptacoder/" title="GeeksforGeeks"><img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" width="50" height="50" alt="GeeksforGeeks" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/profile/priyanshuguptacoder" title="HackerRank"><img src="https://cdn.simpleicons.org/hackerrank/00EA64" width="50" height="50" alt="HackerRank" /></a>
 </p>
 
 ---
