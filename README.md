@@ -142,17 +142,6 @@ Full-stack hostel management system for resident records, hostel operations, and
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-orange?style=flat-square&logo=render)](https://hostel-management-system-hqg0.onrender.com/)
 
-> Note: I could not verify a current public GitHub repository for this project under `priyanshuguptacoder`, so no broken source link is included.
-
----
-
-## 📈 GitHub Analytics
-
-<p align="center">
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=priyanshuguptacoder&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" />
-<img width="49%" src="https://streak-stats.demolab.com?user=priyanshuguptacoder&theme=tokyonight&hide_border=true" />
-</p>
-
 ---
 
 ## 🏆 Achievements
