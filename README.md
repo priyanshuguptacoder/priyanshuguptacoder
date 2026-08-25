@@ -31,7 +31,7 @@ Focused on **backend/full-stack engineering, DSA, competitive programming, AI-po
 <p align="center">
 <a href="mailto:priyanshug.cs.25@nitj.ac.in"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="42" height="42" alt="Email" title="Email" /></a>
 &nbsp;&nbsp;
-<a href="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" width="42" height="42" alt="LinkedIn" title="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/priyanshu-gupta-b98689376/"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="42" height="42" alt="LinkedIn" title="LinkedIn" /></a>
 &nbsp;&nbsp;
 <a href="https://github.com/priyanshuguptacoder"><img src="https://cdn.simpleicons.org/github/FFFFFF" width="42" height="42" alt="GitHub" title="GitHub" /></a>
 &nbsp;&nbsp;
@@ -43,19 +43,19 @@ Focused on **backend/full-stack engineering, DSA, competitive programming, AI-po
 ## 🏆 Coding Profiles
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/leetcode.svg" width="52" height="52" alt="LeetCode" title="LeetCode" />
+  <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="52" height="52" alt="LeetCode" title="LeetCode" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/codeforces.svg" width="52" height="52" alt="Codeforces" title="Codeforces" />
+  <img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="52" height="52" alt="Codeforces" title="Codeforces" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/codechef.svg" width="52" height="52" alt="CodeChef" title="CodeChef" />
+  <img src="https://cdn.simpleicons.org/codechef/B3875D" width="52" height="52" alt="CodeChef" title="CodeChef" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://www.google.com/s2/favicons?domain=codolio.com&sz=128" width="52" height="52" alt="Codolio" title="Codolio" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/atcoder.svg" width="52" height="52" alt="AtCoder" title="AtCoder" />
+  <img src="https://cdn.simpleicons.org/atcoder/00A98F" width="52" height="52" alt="AtCoder" title="AtCoder" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/geeksforgeeks.svg" width="52" height="52" alt="GeeksforGeeks" title="GeeksforGeeks" />
+  <img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" width="52" height="52" alt="GeeksforGeeks" title="GeeksforGeeks" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/hackerrank.svg" width="52" height="52" alt="HackerRank" title="HackerRank" />
+  <img src="https://cdn.simpleicons.org/hackerrank/00EA64" width="52" height="52" alt="HackerRank" title="HackerRank" />
 </p>
 
 ---
@@ -171,18 +171,12 @@ Full-stack hostel management system for resident records, hostel operations, and
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/priyanshuguptacoder">
-    <img height="185" src="https://github-readme-stats-fast.vercel.app/api?username=priyanshuguptacoder&show_icons=true&hide_border=true&include_all_commits=true&count_private=false&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" />
-  </a>
-  <a href="https://github.com/priyanshuguptacoder">
-    <img height="185" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=priyanshuguptacoder&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
-  </a>
+  <img height="185" src="https://github-readme-stats.vercel.app/api?username=priyanshuguptacoder&show_icons=true&hide_border=true&include_all_commits=true&count_private=false&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" />
+  <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshuguptacoder&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/priyanshuguptacoder">
-    <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=priyanshuguptacoder&theme=tokyonight" />
-  </a>
+  <img src="https://streak-stats.demolab.com?user=priyanshuguptacoder&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF" />
 </p>
 
 ---
