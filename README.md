@@ -43,19 +43,19 @@ Focused on **backend/full-stack engineering, DSA, competitive programming, AI-po
 ## 🏆 Coding Profiles
 
 <p align="center">
-  <a href="https://leetcode.com/u/invisiblemanfromheart/" title="LeetCode"><img src="https://cdn.simpleicons.org/leetcode/FFA116" width="52" height="52" alt="LeetCode" /></a>
+  <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="52" height="52" alt="LeetCode" title="LeetCode" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://codeforces.com/profile/priyanshuguptacoder" title="Codeforces"><img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="52" height="52" alt="Codeforces" /></a>
+  <img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="52" height="52" alt="Codeforces" title="Codeforces" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.codechef.com/users/priyanshuguptacoder" title="CodeChef"><img src="https://cdn.simpleicons.org/codechef/FFFEFC" width="52" height="52" alt="CodeChef" /></a>
+  <img src="https://cdn.simpleicons.org/codechef/FFFEFC" width="52" height="52" alt="CodeChef" title="CodeChef" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://codolio.com/profile/priyanshuguptacoder" title="Codolio"><img src="https://www.google.com/s2/favicons?domain=codolio.com&sz=128" width="52" height="52" alt="Codolio" /></a>
+  <img src="https://www.google.com/s2/favicons?domain=codolio.com&sz=128" width="52" height="52" alt="Codolio" title="Codolio" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://atcoder.jp/users/priyanshuguptacoder" title="AtCoder"><img src="https://cdn.simpleicons.org/atcoder/0F4C81" width="52" height="52" alt="AtCoder" /></a>
+  <img src="https://cdn.simpleicons.org/atcoder/0F4C81" width="52" height="52" alt="AtCoder" title="AtCoder" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.geeksforgeeks.org/user/priyanshuguptacoder/" title="GeeksforGeeks"><img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" width="52" height="52" alt="GeeksforGeeks" /></a>
+  <img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" width="52" height="52" alt="GeeksforGeeks" title="GeeksforGeeks" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/profile/priyanshuguptacoder" title="HackerRank"><img src="https://cdn.simpleicons.org/hackerrank/00EA64" width="52" height="52" alt="HackerRank" /></a>
+  <img src="https://cdn.simpleicons.org/hackerrank/00EA64" width="52" height="52" alt="HackerRank" title="HackerRank" />
 </p>
 
 ---
