@@ -5,6 +5,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20To-Internship-1f6feb?style=for-the-badge&logo=handshake&logoColor=white" />
   <img src="https://img.shields.io/github/followers/priyanshuguptacoder?style=for-the-badge&color=1f6feb&label=FOLLOWERS" />
+  <img src="https://komarev.com/ghpvc/?username=priyanshuguptacoder&style=for-the-badge&color=1f6feb&label=PROFILE+VIEWS" />
 </p>
 
 ---
@@ -33,6 +34,23 @@ Focused on **backend/full-stack engineering, DSA, competitive programming, AI-po
 <a href="https://github.com/priyanshuguptacoder"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://priyanshuguptaportfolio.online/"><img src="https://img.shields.io/badge/Portfolio-1f6feb?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
+
+---
+
+## 🏆 Coding Profiles
+
+<p align="center">
+  <a href="https://leetcode.com/u/invisiblemanfromheart/"><img src="https://img.shields.io/badge/🧩%20LeetCode-1940%20%7C%20Knight%20%7C%20Top%206.01%25-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://codeforces.com/profile/priyanshuguptacoder"><img src="https://img.shields.io/badge/⚔️%20Codeforces-1460%20%7C%20Specialist-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+  <a href="https://www.codechef.com/users/priyanshuguptacoder"><img src="https://img.shields.io/badge/🍳%20CodeChef-1645%20%7C%203--Star-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
+</p>
+<p align="center">
+  <a href="https://codolio.com/profile/priyanshuguptacoder"><img src="https://img.shields.io/badge/📊%20Codolio-Profile-6C63FF?style=for-the-badge" /></a>
+  <a href="https://atcoder.jp/users/priyanshuguptacoder"><img src="https://img.shields.io/badge/🅰️%20AtCoder-Profile-0f4c81?style=for-the-badge&logo=atcoder&logoColor=white" /></a>
+  <a href="https://www.geeksforgeeks.org/user/priyanshuguptacoder/"><img src="https://img.shields.io/badge/🧠%20GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
+</p>
+
+<p align="center"><sub>Click the platform badges above to open the profile. No raw URLs are displayed.</sub></p>
 
 ---
 
@@ -162,8 +180,6 @@ Full-stack hostel management system for resident records, hostel operations, and
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshuguptacoder&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=ffffff&area=true&hide_border=true" width="98%" />
 </p>
-
-> **Note:** These cards use public GitHub-data services. Their data can be cached and their public endpoints can occasionally hit GitHub API rate limits; the profile itself remains fully functional even if a card is temporarily unavailable. citeturn677642search0turn677642search8
 
 ---
 
