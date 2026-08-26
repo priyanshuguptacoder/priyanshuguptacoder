@@ -134,6 +134,23 @@ AI-powered exam preparation platform generating structured notes, revision summa
 
 ---
 
+### 🏨 Hostel Management System
+
+**Tech:** `React.js` `Node.js` `Express.js` `MongoDB` `JWT` `REST APIs`
+
+Full-stack hostel management system for resident records, hostel operations, and administrative workflows.
+
+- JWT authentication
+- Role-based access control
+- RESTful APIs
+- MongoDB data management
+- Render deployment
+
+[![View Code](https://img.shields.io/badge/View%20Code-1f6feb?style=flat-square&logo=github)](https://github.com/priyanshuguptacoder/hostelpriyanshu)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-orange?style=flat-square&logo=render)](https://hostel-management-system-hqg0.onrender.com/)
+
+---
+
 ### 📊 Competitive Programming Analytics Platform
 
 **Tech:** `React.js` `Node.js` `Express.js` `MongoDB` `GraphQL` `JWT` `Tailwind CSS`
@@ -152,21 +169,7 @@ Full-stack analytics platform tracking DSA progress, contest activity, ratings, 
 
 ---
 
-### 🏨 Hostel Management System
 
-**Tech:** `React.js` `Node.js` `Express.js` `MongoDB` `JWT` `REST APIs`
-
-Full-stack hostel management system for resident records, hostel operations, and administrative workflows.
-
-- JWT authentication
-- Role-based access control
-- RESTful APIs
-- MongoDB data management
-- Render deployment
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-orange?style=flat-square&logo=render)](https://hostel-management-system-hqg0.onrender.com/)
-
----
 
 ## 📊 GitHub Analytics
 
