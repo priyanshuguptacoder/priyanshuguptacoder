@@ -80,7 +80,7 @@ Focused on **backend/full-stack engineering, DSA, competitive programming, AI-po
 | --- | ---: | --- |
 | LeetCode | 625+ | **1940 · Knight · Top 6.01%** |
 | Codeforces | 325+ | **1460 · Specialist** |
-| CodeChef | — | **1645 · 3-Star** |
+| CodeChef | 80+ | **1645 · 3-Star** |
 | Other platforms | 200+ | Included in **1150+ total** |
 
 ---
