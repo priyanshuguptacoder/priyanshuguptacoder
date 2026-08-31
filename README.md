@@ -29,7 +29,7 @@ Focused on **backend/full-stack engineering, DSA, competitive programming, AI-po
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="mailto:priyanshug.cs.25@nitj.ac.in"><img src="https://www.google.com/s2/favicons?domain=gmail.com&sz=128" width="42" height="42" alt="Email" title="Email" /></a>
+<a href="mailto:priyanshuguptanitian9696@gmail.com"><img src="https://www.google.com/s2/favicons?domain=gmail.com&sz=128" width="42" height="42" alt="Email" title="Email" /></a>
 &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/priyanshu-gupta-b98689376/"><img src="https://www.google.com/s2/favicons?domain=linkedin.com&sz=128" width="42" height="42" alt="LinkedIn" title="LinkedIn" /></a>
 &nbsp;&nbsp;
