@@ -2,12 +2,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0d1117,50:0f2a4a,100:1f6feb&text=Priyanshu%20Gupta&fontSize=58&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Full-Stack%20Web%20Developer%20%E2%80%A2%20DSA%20%E2%80%A2%20Competitive%20Programming%20%E2%80%A2%20NIT%20Jalandhar&descAlignY=58&descSize=18" width="100%" />
 </div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Open%20To-Internship-1f6feb?style=for-the-badge&logo=handshake&logoColor=white" />
-  <img src="https://img.shields.io/github/followers/priyanshuguptacoder?style=for-the-badge&color=1f6feb&label=FOLLOWERS" />
-  <img src="https://komarev.com/ghpvc/?username=priyanshuguptacoder&style=for-the-badge&color=1f6feb&label=PROFILE+VIEWS" />
-</p>
-
 ---
 
 ## 👨‍💻 About Me
