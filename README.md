@@ -10,11 +10,11 @@
 
 🎓 Computer Science & Engineering undergraduate at **NIT Jalandhar**  
 💻 Building full-stack production systems with **React, Node.js, Express, MongoDB, GraphQL, and real-time technologies**  
-🧠 Solved **1200+ DSA/CP problems** across coding platforms  
-🏅 **LeetCode: 1940 · Knight · Top 6.01%**  
+🧠 Solved **1300+ DSA/CP problems** across coding platforms  
+🏅 **LeetCode: 1940 · Knight · Top 6%**  
 💠 **Codeforces: 1460 · Specialist**  
 🏆 **CodeChef: 1645 · 3-Star**  
-🔥 **226+ day coding streak** · **229 active coding days**
+🔥 **250+ day coding streak** · **250 active coding days**
 
 Focused on **backend/full-stack engineering, DSA, competitive programming, AI-powered applications, and open source**.
 
@@ -72,10 +72,10 @@ Focused on **backend/full-stack engineering, DSA, competitive programming, AI-po
 
 | Platform | Problems | Rating / Achievement |
 | --- | ---: | --- |
-| LeetCode | 645+ | **1940 · Knight · Top 6.01%** |
-| Codeforces | 350+ | **1460 · Specialist** |
-| CodeChef | 90+ | **1645 · 3-Star** |
-| Other platforms | 200+ | Included in **1200+ total** |
+| LeetCode | 700+ | **1940 · Knight · Top 6%** |
+| Codeforces | 400+ | **1460 · Specialist** |
+| CodeChef | 100+ | **1645 · 3-Star** |
+| Other platforms | 100+ | Included in **1300+ total** |
 
 ---
 
