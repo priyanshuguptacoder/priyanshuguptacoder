@@ -11,7 +11,7 @@
 🎓 Computer Science & Engineering undergraduate at **NIT Jalandhar**  
 💻 Building full-stack production systems with **React, Node.js, Express, MongoDB, GraphQL, and real-time technologies**  
 🧠 Solved **1300+ DSA/CP problems** across coding platforms  
-🏅 **LeetCode: 1940 · Knight · Top 6%**  
+🏅 **LeetCode: 1940 · Knight · Top 3%**  
 💠 **Codeforces: 1460 · Specialist**  
 🏆 **CodeChef: 1645 · 3-Star**  
 🔥 **250+ day coding streak** · **250 active coding days**
@@ -56,7 +56,7 @@ Focused on **backend/full-stack engineering, DSA, competitive programming, AI-po
 
 ## 🎓 Education
 
-- **Dr. B.R. Ambedkar National Institute of Technology, Jalandhar** — B.Tech in Computer Science & Engineering, 2025–2029, **CGPA 8.16**
+- **Dr. B.R. Ambedkar National Institute of Technology, Jalandhar** — B.Tech in Computer Science & Engineering, 2025–2029,
 - **Academic Global School** — Class XII, **92%**
 - **S.B.T. Public School** — Class X, **93.6%**
 
