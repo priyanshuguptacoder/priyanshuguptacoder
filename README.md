@@ -75,7 +75,7 @@ Focused on **backend/full-stack engineering, DSA, competitive programming, AI-po
 | LeetCode | 750+ | **1940 · Knight · Top 3.53%** |
 | Codeforces | 425+ | **1485 · Specialist** |
 | CodeChef | 100+ | **1645 · 3-Star** |
-| Other platforms | 100+ | Included in **1300+ total** |
+| Other platforms | 100+ | Included in **1400+ total** |
 
 ---
 
@@ -85,7 +85,7 @@ Focused on **backend/full-stack engineering, DSA, competitive programming, AI-po
 **Frontend:** `React.js` `Vite` `Redux Toolkit` `Tailwind CSS`  
 **Backend:** `Node.js` `Express.js` `MongoDB` `Mongoose` `REST APIs` `GraphQL` `Socket.IO` `JWT`  
 **Services:** `Google Gemini` `Firebase` `Stripe` `Razorpay` `Cloudinary` `Brevo` `Geoapify`  
-**Core CS:** `Data Structures & Algorithms` `OOP` `DBMS`  
+**Core CS:** `Data Structures & Algorithms` `OOP` 
 **Tools:** `Git` `GitHub` `VS Code` `Postman` `Render`
 
 ---
