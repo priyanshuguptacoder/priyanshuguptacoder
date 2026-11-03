@@ -13,7 +13,7 @@
 🧠 Solved **1500+ DSA/CP problems** across coding platforms  
 🏅 **LeetCode: 1980 · Knight · Top 3%**  
 💠 **Codeforces: 1485 · Specialist**  
-🏆 **CodeChef: 1645 · 3-Star** 
+🏆 **CodeChef: 1645 · 3-Star**                                                                                                                  
 🏅 **AtCoder: 560 · 🟤-Coder** 
 🔥 **280+ day coding streak** · **285 active coding days**
 
